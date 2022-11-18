@@ -5,4 +5,4 @@ Code for Qwatch network camera in Umeda Lab.
 
 IP adress of QWATCH1: 133.91.72.32
 <br>
-IP adress of QWATCH1: 133.91.72.35
+IP adress of QWATCH2: 133.91.72.35
